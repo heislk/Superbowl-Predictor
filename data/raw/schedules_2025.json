@@ -1,0 +1,2882 @@
+[
+    {
+        "Season": 2025,
+        "Week": 1,
+        "HomeTeam": "TM12",
+        "AwayTeam": "TM9",
+        "Status": "Final",
+        "HomeScore": 32,
+        "AwayScore": 11,
+        "GameKey": "1"
+    },
+    {
+        "Season": 2025,
+        "Week": 1,
+        "HomeTeam": "TM6",
+        "AwayTeam": "TM8",
+        "Status": "Final",
+        "HomeScore": 14,
+        "AwayScore": 31,
+        "GameKey": "2"
+    },
+    {
+        "Season": 2025,
+        "Week": 1,
+        "HomeTeam": "TM22",
+        "AwayTeam": "TM28",
+        "Status": "Final",
+        "HomeScore": 13,
+        "AwayScore": 10,
+        "GameKey": "3"
+    },
+    {
+        "Season": 2025,
+        "Week": 1,
+        "HomeTeam": "TM5",
+        "AwayTeam": "TM19",
+        "Status": "Final",
+        "HomeScore": 34,
+        "AwayScore": 10,
+        "GameKey": "4"
+    },
+    {
+        "Season": 2025,
+        "Week": 1,
+        "HomeTeam": "TM27",
+        "AwayTeam": "TM25",
+        "Status": "Final",
+        "HomeScore": 25,
+        "AwayScore": 17,
+        "GameKey": "5"
+    },
+    {
+        "Season": 2025,
+        "Week": 1,
+        "HomeTeam": "TM29",
+        "AwayTeam": "TM2",
+        "Status": "Final",
+        "HomeScore": 26,
+        "AwayScore": 12,
+        "GameKey": "6"
+    },
+    {
+        "Season": 2025,
+        "Week": 1,
+        "HomeTeam": "TM24",
+        "AwayTeam": "TM4",
+        "Status": "Final",
+        "HomeScore": 12,
+        "AwayScore": 28,
+        "GameKey": "7"
+    },
+    {
+        "Season": 2025,
+        "Week": 1,
+        "HomeTeam": "TM3",
+        "AwayTeam": "TM0",
+        "Status": "Final",
+        "HomeScore": 33,
+        "AwayScore": 15,
+        "GameKey": "8"
+    },
+    {
+        "Season": 2025,
+        "Week": 1,
+        "HomeTeam": "TM23",
+        "AwayTeam": "TM26",
+        "Status": "Final",
+        "HomeScore": 13,
+        "AwayScore": 23,
+        "GameKey": "9"
+    },
+    {
+        "Season": 2025,
+        "Week": 1,
+        "HomeTeam": "TM20",
+        "AwayTeam": "TM1",
+        "Status": "Final",
+        "HomeScore": 21,
+        "AwayScore": 22,
+        "GameKey": "10"
+    },
+    {
+        "Season": 2025,
+        "Week": 1,
+        "HomeTeam": "TM7",
+        "AwayTeam": "TM13",
+        "Status": "Final",
+        "HomeScore": 35,
+        "AwayScore": 16,
+        "GameKey": "11"
+    },
+    {
+        "Season": 2025,
+        "Week": 1,
+        "HomeTeam": "TM21",
+        "AwayTeam": "TM17",
+        "Status": "Final",
+        "HomeScore": 20,
+        "AwayScore": 19,
+        "GameKey": "12"
+    },
+    {
+        "Season": 2025,
+        "Week": 1,
+        "HomeTeam": "TM30",
+        "AwayTeam": "TM16",
+        "Status": "Final",
+        "HomeScore": 24,
+        "AwayScore": 26,
+        "GameKey": "13"
+    },
+    {
+        "Season": 2025,
+        "Week": 1,
+        "HomeTeam": "TM31",
+        "AwayTeam": "TM10",
+        "Status": "Final",
+        "HomeScore": 13,
+        "AwayScore": 18,
+        "GameKey": "14"
+    },
+    {
+        "Season": 2025,
+        "Week": 1,
+        "HomeTeam": "TM15",
+        "AwayTeam": "TM11",
+        "Status": "Final",
+        "HomeScore": 15,
+        "AwayScore": 23,
+        "GameKey": "15"
+    },
+    {
+        "Season": 2025,
+        "Week": 1,
+        "HomeTeam": "TM14",
+        "AwayTeam": "TM18",
+        "Status": "Final",
+        "HomeScore": 20,
+        "AwayScore": 35,
+        "GameKey": "16"
+    },
+    {
+        "Season": 2025,
+        "Week": 2,
+        "HomeTeam": "TM15",
+        "AwayTeam": "TM16",
+        "Status": "Final",
+        "HomeScore": 11,
+        "AwayScore": 13,
+        "GameKey": "17"
+    },
+    {
+        "Season": 2025,
+        "Week": 2,
+        "HomeTeam": "TM5",
+        "AwayTeam": "TM17",
+        "Status": "Final",
+        "HomeScore": 19,
+        "AwayScore": 15,
+        "GameKey": "18"
+    },
+    {
+        "Season": 2025,
+        "Week": 2,
+        "HomeTeam": "TM20",
+        "AwayTeam": "TM19",
+        "Status": "Final",
+        "HomeScore": 18,
+        "AwayScore": 20,
+        "GameKey": "19"
+    },
+    {
+        "Season": 2025,
+        "Week": 2,
+        "HomeTeam": "TM24",
+        "AwayTeam": "TM2",
+        "Status": "Final",
+        "HomeScore": 25,
+        "AwayScore": 16,
+        "GameKey": "20"
+    },
+    {
+        "Season": 2025,
+        "Week": 2,
+        "HomeTeam": "TM18",
+        "AwayTeam": "TM28",
+        "Status": "Final",
+        "HomeScore": 18,
+        "AwayScore": 22,
+        "GameKey": "21"
+    },
+    {
+        "Season": 2025,
+        "Week": 2,
+        "HomeTeam": "TM6",
+        "AwayTeam": "TM25",
+        "Status": "Final",
+        "HomeScore": 34,
+        "AwayScore": 28,
+        "GameKey": "22"
+    },
+    {
+        "Season": 2025,
+        "Week": 2,
+        "HomeTeam": "TM26",
+        "AwayTeam": "TM1",
+        "Status": "Final",
+        "HomeScore": 23,
+        "AwayScore": 33,
+        "GameKey": "23"
+    },
+    {
+        "Season": 2025,
+        "Week": 2,
+        "HomeTeam": "TM12",
+        "AwayTeam": "TM11",
+        "Status": "Final",
+        "HomeScore": 27,
+        "AwayScore": 12,
+        "GameKey": "24"
+    },
+    {
+        "Season": 2025,
+        "Week": 2,
+        "HomeTeam": "TM10",
+        "AwayTeam": "TM31",
+        "Status": "Final",
+        "HomeScore": 13,
+        "AwayScore": 22,
+        "GameKey": "25"
+    },
+    {
+        "Season": 2025,
+        "Week": 2,
+        "HomeTeam": "TM22",
+        "AwayTeam": "TM27",
+        "Status": "Final",
+        "HomeScore": 35,
+        "AwayScore": 30,
+        "GameKey": "26"
+    },
+    {
+        "Season": 2025,
+        "Week": 2,
+        "HomeTeam": "TM29",
+        "AwayTeam": "TM3",
+        "Status": "Final",
+        "HomeScore": 16,
+        "AwayScore": 13,
+        "GameKey": "27"
+    },
+    {
+        "Season": 2025,
+        "Week": 2,
+        "HomeTeam": "TM4",
+        "AwayTeam": "TM8",
+        "Status": "Final",
+        "HomeScore": 10,
+        "AwayScore": 21,
+        "GameKey": "28"
+    },
+    {
+        "Season": 2025,
+        "Week": 2,
+        "HomeTeam": "TM9",
+        "AwayTeam": "TM0",
+        "Status": "Final",
+        "HomeScore": 34,
+        "AwayScore": 31,
+        "GameKey": "29"
+    },
+    {
+        "Season": 2025,
+        "Week": 2,
+        "HomeTeam": "TM21",
+        "AwayTeam": "TM30",
+        "Status": "Final",
+        "HomeScore": 30,
+        "AwayScore": 33,
+        "GameKey": "30"
+    },
+    {
+        "Season": 2025,
+        "Week": 2,
+        "HomeTeam": "TM14",
+        "AwayTeam": "TM13",
+        "Status": "Final",
+        "HomeScore": 22,
+        "AwayScore": 17,
+        "GameKey": "31"
+    },
+    {
+        "Season": 2025,
+        "Week": 2,
+        "HomeTeam": "TM7",
+        "AwayTeam": "TM23",
+        "Status": "Final",
+        "HomeScore": 23,
+        "AwayScore": 27,
+        "GameKey": "32"
+    },
+    {
+        "Season": 2025,
+        "Week": 3,
+        "HomeTeam": "TM0",
+        "AwayTeam": "TM11",
+        "Status": "Final",
+        "HomeScore": 15,
+        "AwayScore": 17,
+        "GameKey": "33"
+    },
+    {
+        "Season": 2025,
+        "Week": 3,
+        "HomeTeam": "TM28",
+        "AwayTeam": "TM30",
+        "Status": "Final",
+        "HomeScore": 23,
+        "AwayScore": 30,
+        "GameKey": "34"
+    },
+    {
+        "Season": 2025,
+        "Week": 3,
+        "HomeTeam": "TM19",
+        "AwayTeam": "TM1",
+        "Status": "Final",
+        "HomeScore": 18,
+        "AwayScore": 12,
+        "GameKey": "35"
+    },
+    {
+        "Season": 2025,
+        "Week": 3,
+        "HomeTeam": "TM10",
+        "AwayTeam": "TM18",
+        "Status": "Final",
+        "HomeScore": 17,
+        "AwayScore": 14,
+        "GameKey": "36"
+    },
+    {
+        "Season": 2025,
+        "Week": 3,
+        "HomeTeam": "TM3",
+        "AwayTeam": "TM13",
+        "Status": "Final",
+        "HomeScore": 22,
+        "AwayScore": 33,
+        "GameKey": "37"
+    },
+    {
+        "Season": 2025,
+        "Week": 3,
+        "HomeTeam": "TM5",
+        "AwayTeam": "TM23",
+        "Status": "Final",
+        "HomeScore": 24,
+        "AwayScore": 11,
+        "GameKey": "38"
+    },
+    {
+        "Season": 2025,
+        "Week": 3,
+        "HomeTeam": "TM2",
+        "AwayTeam": "TM8",
+        "Status": "Final",
+        "HomeScore": 23,
+        "AwayScore": 25,
+        "GameKey": "39"
+    },
+    {
+        "Season": 2025,
+        "Week": 3,
+        "HomeTeam": "TM9",
+        "AwayTeam": "TM16",
+        "Status": "Final",
+        "HomeScore": 32,
+        "AwayScore": 24,
+        "GameKey": "40"
+    },
+    {
+        "Season": 2025,
+        "Week": 3,
+        "HomeTeam": "TM29",
+        "AwayTeam": "TM7",
+        "Status": "Final",
+        "HomeScore": 20,
+        "AwayScore": 25,
+        "GameKey": "41"
+    },
+    {
+        "Season": 2025,
+        "Week": 3,
+        "HomeTeam": "TM15",
+        "AwayTeam": "TM31",
+        "Status": "Final",
+        "HomeScore": 21,
+        "AwayScore": 16,
+        "GameKey": "42"
+    },
+    {
+        "Season": 2025,
+        "Week": 3,
+        "HomeTeam": "TM21",
+        "AwayTeam": "TM4",
+        "Status": "Final",
+        "HomeScore": 19,
+        "AwayScore": 10,
+        "GameKey": "43"
+    },
+    {
+        "Season": 2025,
+        "Week": 3,
+        "HomeTeam": "TM14",
+        "AwayTeam": "TM12",
+        "Status": "Final",
+        "HomeScore": 33,
+        "AwayScore": 14,
+        "GameKey": "44"
+    },
+    {
+        "Season": 2025,
+        "Week": 3,
+        "HomeTeam": "TM6",
+        "AwayTeam": "TM17",
+        "Status": "Final",
+        "HomeScore": 10,
+        "AwayScore": 20,
+        "GameKey": "45"
+    },
+    {
+        "Season": 2025,
+        "Week": 3,
+        "HomeTeam": "TM25",
+        "AwayTeam": "TM27",
+        "Status": "Final",
+        "HomeScore": 18,
+        "AwayScore": 19,
+        "GameKey": "46"
+    },
+    {
+        "Season": 2025,
+        "Week": 3,
+        "HomeTeam": "TM24",
+        "AwayTeam": "TM26",
+        "Status": "Final",
+        "HomeScore": 24,
+        "AwayScore": 23,
+        "GameKey": "47"
+    },
+    {
+        "Season": 2025,
+        "Week": 3,
+        "HomeTeam": "TM22",
+        "AwayTeam": "TM20",
+        "Status": "Final",
+        "HomeScore": 13,
+        "AwayScore": 17,
+        "GameKey": "48"
+    },
+    {
+        "Season": 2025,
+        "Week": 4,
+        "HomeTeam": "TM11",
+        "AwayTeam": "TM7",
+        "Status": "Final",
+        "HomeScore": 22,
+        "AwayScore": 32,
+        "GameKey": "49"
+    },
+    {
+        "Season": 2025,
+        "Week": 4,
+        "HomeTeam": "TM8",
+        "AwayTeam": "TM27",
+        "Status": "Final",
+        "HomeScore": 34,
+        "AwayScore": 35,
+        "GameKey": "50"
+    },
+    {
+        "Season": 2025,
+        "Week": 4,
+        "HomeTeam": "TM6",
+        "AwayTeam": "TM18",
+        "Status": "Final",
+        "HomeScore": 13,
+        "AwayScore": 16,
+        "GameKey": "51"
+    },
+    {
+        "Season": 2025,
+        "Week": 4,
+        "HomeTeam": "TM24",
+        "AwayTeam": "TM25",
+        "Status": "Final",
+        "HomeScore": 25,
+        "AwayScore": 26,
+        "GameKey": "52"
+    },
+    {
+        "Season": 2025,
+        "Week": 4,
+        "HomeTeam": "TM30",
+        "AwayTeam": "TM10",
+        "Status": "Final",
+        "HomeScore": 24,
+        "AwayScore": 29,
+        "GameKey": "53"
+    },
+    {
+        "Season": 2025,
+        "Week": 4,
+        "HomeTeam": "TM31",
+        "AwayTeam": "TM4",
+        "Status": "Final",
+        "HomeScore": 26,
+        "AwayScore": 27,
+        "GameKey": "54"
+    },
+    {
+        "Season": 2025,
+        "Week": 4,
+        "HomeTeam": "TM22",
+        "AwayTeam": "TM23",
+        "Status": "Final",
+        "HomeScore": 15,
+        "AwayScore": 35,
+        "GameKey": "55"
+    },
+    {
+        "Season": 2025,
+        "Week": 4,
+        "HomeTeam": "TM1",
+        "AwayTeam": "TM28",
+        "Status": "Final",
+        "HomeScore": 17,
+        "AwayScore": 14,
+        "GameKey": "56"
+    },
+    {
+        "Season": 2025,
+        "Week": 4,
+        "HomeTeam": "TM14",
+        "AwayTeam": "TM2",
+        "Status": "Final",
+        "HomeScore": 11,
+        "AwayScore": 14,
+        "GameKey": "57"
+    },
+    {
+        "Season": 2025,
+        "Week": 4,
+        "HomeTeam": "TM12",
+        "AwayTeam": "TM17",
+        "Status": "Final",
+        "HomeScore": 12,
+        "AwayScore": 24,
+        "GameKey": "58"
+    },
+    {
+        "Season": 2025,
+        "Week": 4,
+        "HomeTeam": "TM16",
+        "AwayTeam": "TM0",
+        "Status": "Final",
+        "HomeScore": 31,
+        "AwayScore": 23,
+        "GameKey": "59"
+    },
+    {
+        "Season": 2025,
+        "Week": 4,
+        "HomeTeam": "TM5",
+        "AwayTeam": "TM19",
+        "Status": "Final",
+        "HomeScore": 22,
+        "AwayScore": 30,
+        "GameKey": "60"
+    },
+    {
+        "Season": 2025,
+        "Week": 4,
+        "HomeTeam": "TM20",
+        "AwayTeam": "TM21",
+        "Status": "Final",
+        "HomeScore": 19,
+        "AwayScore": 11,
+        "GameKey": "61"
+    },
+    {
+        "Season": 2025,
+        "Week": 4,
+        "HomeTeam": "TM3",
+        "AwayTeam": "TM15",
+        "Status": "Final",
+        "HomeScore": 14,
+        "AwayScore": 23,
+        "GameKey": "62"
+    },
+    {
+        "Season": 2025,
+        "Week": 4,
+        "HomeTeam": "TM9",
+        "AwayTeam": "TM13",
+        "Status": "Final",
+        "HomeScore": 21,
+        "AwayScore": 15,
+        "GameKey": "63"
+    },
+    {
+        "Season": 2025,
+        "Week": 4,
+        "HomeTeam": "TM26",
+        "AwayTeam": "TM29",
+        "Status": "Final",
+        "HomeScore": 24,
+        "AwayScore": 26,
+        "GameKey": "64"
+    },
+    {
+        "Season": 2025,
+        "Week": 5,
+        "HomeTeam": "TM16",
+        "AwayTeam": "TM14",
+        "Status": "Final",
+        "HomeScore": 35,
+        "AwayScore": 29,
+        "GameKey": "65"
+    },
+    {
+        "Season": 2025,
+        "Week": 5,
+        "HomeTeam": "TM8",
+        "AwayTeam": "TM9",
+        "Status": "Final",
+        "HomeScore": 12,
+        "AwayScore": 34,
+        "GameKey": "66"
+    },
+    {
+        "Season": 2025,
+        "Week": 5,
+        "HomeTeam": "TM22",
+        "AwayTeam": "TM21",
+        "Status": "Final",
+        "HomeScore": 11,
+        "AwayScore": 34,
+        "GameKey": "67"
+    },
+    {
+        "Season": 2025,
+        "Week": 5,
+        "HomeTeam": "TM28",
+        "AwayTeam": "TM1",
+        "Status": "Final",
+        "HomeScore": 15,
+        "AwayScore": 25,
+        "GameKey": "68"
+    },
+    {
+        "Season": 2025,
+        "Week": 5,
+        "HomeTeam": "TM4",
+        "AwayTeam": "TM31",
+        "Status": "Final",
+        "HomeScore": 18,
+        "AwayScore": 12,
+        "GameKey": "69"
+    },
+    {
+        "Season": 2025,
+        "Week": 5,
+        "HomeTeam": "TM25",
+        "AwayTeam": "TM0",
+        "Status": "Final",
+        "HomeScore": 14,
+        "AwayScore": 24,
+        "GameKey": "70"
+    },
+    {
+        "Season": 2025,
+        "Week": 5,
+        "HomeTeam": "TM7",
+        "AwayTeam": "TM30",
+        "Status": "Final",
+        "HomeScore": 28,
+        "AwayScore": 29,
+        "GameKey": "71"
+    },
+    {
+        "Season": 2025,
+        "Week": 5,
+        "HomeTeam": "TM23",
+        "AwayTeam": "TM29",
+        "Status": "Final",
+        "HomeScore": 27,
+        "AwayScore": 34,
+        "GameKey": "72"
+    },
+    {
+        "Season": 2025,
+        "Week": 5,
+        "HomeTeam": "TM5",
+        "AwayTeam": "TM12",
+        "Status": "Final",
+        "HomeScore": 14,
+        "AwayScore": 24,
+        "GameKey": "73"
+    },
+    {
+        "Season": 2025,
+        "Week": 5,
+        "HomeTeam": "TM18",
+        "AwayTeam": "TM6",
+        "Status": "Final",
+        "HomeScore": 13,
+        "AwayScore": 34,
+        "GameKey": "74"
+    },
+    {
+        "Season": 2025,
+        "Week": 5,
+        "HomeTeam": "TM11",
+        "AwayTeam": "TM19",
+        "Status": "Final",
+        "HomeScore": 35,
+        "AwayScore": 22,
+        "GameKey": "75"
+    },
+    {
+        "Season": 2025,
+        "Week": 5,
+        "HomeTeam": "TM17",
+        "AwayTeam": "TM20",
+        "Status": "Final",
+        "HomeScore": 33,
+        "AwayScore": 13,
+        "GameKey": "76"
+    },
+    {
+        "Season": 2025,
+        "Week": 5,
+        "HomeTeam": "TM2",
+        "AwayTeam": "TM24",
+        "Status": "Final",
+        "HomeScore": 30,
+        "AwayScore": 15,
+        "GameKey": "77"
+    },
+    {
+        "Season": 2025,
+        "Week": 5,
+        "HomeTeam": "TM26",
+        "AwayTeam": "TM10",
+        "Status": "Final",
+        "HomeScore": 12,
+        "AwayScore": 18,
+        "GameKey": "78"
+    },
+    {
+        "Season": 2025,
+        "Week": 5,
+        "HomeTeam": "TM15",
+        "AwayTeam": "TM3",
+        "Status": "Final",
+        "HomeScore": 12,
+        "AwayScore": 26,
+        "GameKey": "79"
+    },
+    {
+        "Season": 2025,
+        "Week": 5,
+        "HomeTeam": "TM13",
+        "AwayTeam": "TM27",
+        "Status": "Final",
+        "HomeScore": 35,
+        "AwayScore": 10,
+        "GameKey": "80"
+    },
+    {
+        "Season": 2025,
+        "Week": 6,
+        "HomeTeam": "TM20",
+        "AwayTeam": "TM15",
+        "Status": "Final",
+        "HomeScore": 24,
+        "AwayScore": 23,
+        "GameKey": "81"
+    },
+    {
+        "Season": 2025,
+        "Week": 6,
+        "HomeTeam": "TM23",
+        "AwayTeam": "TM13",
+        "Status": "Final",
+        "HomeScore": 20,
+        "AwayScore": 26,
+        "GameKey": "82"
+    },
+    {
+        "Season": 2025,
+        "Week": 6,
+        "HomeTeam": "TM2",
+        "AwayTeam": "TM19",
+        "Status": "Final",
+        "HomeScore": 15,
+        "AwayScore": 31,
+        "GameKey": "83"
+    },
+    {
+        "Season": 2025,
+        "Week": 6,
+        "HomeTeam": "TM31",
+        "AwayTeam": "TM3",
+        "Status": "Final",
+        "HomeScore": 21,
+        "AwayScore": 16,
+        "GameKey": "84"
+    },
+    {
+        "Season": 2025,
+        "Week": 6,
+        "HomeTeam": "TM1",
+        "AwayTeam": "TM14",
+        "Status": "Final",
+        "HomeScore": 35,
+        "AwayScore": 34,
+        "GameKey": "85"
+    },
+    {
+        "Season": 2025,
+        "Week": 6,
+        "HomeTeam": "TM29",
+        "AwayTeam": "TM8",
+        "Status": "Final",
+        "HomeScore": 31,
+        "AwayScore": 19,
+        "GameKey": "86"
+    },
+    {
+        "Season": 2025,
+        "Week": 6,
+        "HomeTeam": "TM0",
+        "AwayTeam": "TM9",
+        "Status": "Final",
+        "HomeScore": 33,
+        "AwayScore": 30,
+        "GameKey": "87"
+    },
+    {
+        "Season": 2025,
+        "Week": 6,
+        "HomeTeam": "TM4",
+        "AwayTeam": "TM22",
+        "Status": "Final",
+        "HomeScore": 22,
+        "AwayScore": 29,
+        "GameKey": "88"
+    },
+    {
+        "Season": 2025,
+        "Week": 6,
+        "HomeTeam": "TM27",
+        "AwayTeam": "TM26",
+        "Status": "Final",
+        "HomeScore": 17,
+        "AwayScore": 19,
+        "GameKey": "89"
+    },
+    {
+        "Season": 2025,
+        "Week": 6,
+        "HomeTeam": "TM10",
+        "AwayTeam": "TM11",
+        "Status": "Final",
+        "HomeScore": 10,
+        "AwayScore": 23,
+        "GameKey": "90"
+    },
+    {
+        "Season": 2025,
+        "Week": 6,
+        "HomeTeam": "TM25",
+        "AwayTeam": "TM21",
+        "Status": "Final",
+        "HomeScore": 29,
+        "AwayScore": 32,
+        "GameKey": "91"
+    },
+    {
+        "Season": 2025,
+        "Week": 6,
+        "HomeTeam": "TM6",
+        "AwayTeam": "TM18",
+        "Status": "Final",
+        "HomeScore": 10,
+        "AwayScore": 12,
+        "GameKey": "92"
+    },
+    {
+        "Season": 2025,
+        "Week": 6,
+        "HomeTeam": "TM16",
+        "AwayTeam": "TM30",
+        "Status": "Final",
+        "HomeScore": 11,
+        "AwayScore": 20,
+        "GameKey": "93"
+    },
+    {
+        "Season": 2025,
+        "Week": 6,
+        "HomeTeam": "TM7",
+        "AwayTeam": "TM12",
+        "Status": "Final",
+        "HomeScore": 12,
+        "AwayScore": 30,
+        "GameKey": "94"
+    },
+    {
+        "Season": 2025,
+        "Week": 6,
+        "HomeTeam": "TM17",
+        "AwayTeam": "TM24",
+        "Status": "Final",
+        "HomeScore": 30,
+        "AwayScore": 11,
+        "GameKey": "95"
+    },
+    {
+        "Season": 2025,
+        "Week": 6,
+        "HomeTeam": "TM5",
+        "AwayTeam": "TM28",
+        "Status": "Final",
+        "HomeScore": 26,
+        "AwayScore": 24,
+        "GameKey": "96"
+    },
+    {
+        "Season": 2025,
+        "Week": 7,
+        "HomeTeam": "TM21",
+        "AwayTeam": "TM16",
+        "Status": "Final",
+        "HomeScore": 34,
+        "AwayScore": 15,
+        "GameKey": "97"
+    },
+    {
+        "Season": 2025,
+        "Week": 7,
+        "HomeTeam": "TM9",
+        "AwayTeam": "TM0",
+        "Status": "Final",
+        "HomeScore": 11,
+        "AwayScore": 33,
+        "GameKey": "98"
+    },
+    {
+        "Season": 2025,
+        "Week": 7,
+        "HomeTeam": "TM7",
+        "AwayTeam": "TM5",
+        "Status": "Final",
+        "HomeScore": 12,
+        "AwayScore": 31,
+        "GameKey": "99"
+    },
+    {
+        "Season": 2025,
+        "Week": 7,
+        "HomeTeam": "TM2",
+        "AwayTeam": "TM8",
+        "Status": "Final",
+        "HomeScore": 31,
+        "AwayScore": 21,
+        "GameKey": "100"
+    },
+    {
+        "Season": 2025,
+        "Week": 7,
+        "HomeTeam": "TM25",
+        "AwayTeam": "TM20",
+        "Status": "Final",
+        "HomeScore": 13,
+        "AwayScore": 15,
+        "GameKey": "101"
+    },
+    {
+        "Season": 2025,
+        "Week": 7,
+        "HomeTeam": "TM31",
+        "AwayTeam": "TM11",
+        "Status": "Final",
+        "HomeScore": 24,
+        "AwayScore": 17,
+        "GameKey": "102"
+    },
+    {
+        "Season": 2025,
+        "Week": 7,
+        "HomeTeam": "TM27",
+        "AwayTeam": "TM13",
+        "Status": "Final",
+        "HomeScore": 16,
+        "AwayScore": 27,
+        "GameKey": "103"
+    },
+    {
+        "Season": 2025,
+        "Week": 7,
+        "HomeTeam": "TM4",
+        "AwayTeam": "TM1",
+        "Status": "Final",
+        "HomeScore": 31,
+        "AwayScore": 28,
+        "GameKey": "104"
+    },
+    {
+        "Season": 2025,
+        "Week": 7,
+        "HomeTeam": "TM10",
+        "AwayTeam": "TM6",
+        "Status": "Final",
+        "HomeScore": 12,
+        "AwayScore": 11,
+        "GameKey": "105"
+    },
+    {
+        "Season": 2025,
+        "Week": 7,
+        "HomeTeam": "TM3",
+        "AwayTeam": "TM17",
+        "Status": "Final",
+        "HomeScore": 29,
+        "AwayScore": 13,
+        "GameKey": "106"
+    },
+    {
+        "Season": 2025,
+        "Week": 7,
+        "HomeTeam": "TM28",
+        "AwayTeam": "TM22",
+        "Status": "Final",
+        "HomeScore": 23,
+        "AwayScore": 15,
+        "GameKey": "107"
+    },
+    {
+        "Season": 2025,
+        "Week": 7,
+        "HomeTeam": "TM24",
+        "AwayTeam": "TM23",
+        "Status": "Final",
+        "HomeScore": 24,
+        "AwayScore": 35,
+        "GameKey": "108"
+    },
+    {
+        "Season": 2025,
+        "Week": 7,
+        "HomeTeam": "TM19",
+        "AwayTeam": "TM30",
+        "Status": "Final",
+        "HomeScore": 28,
+        "AwayScore": 33,
+        "GameKey": "109"
+    },
+    {
+        "Season": 2025,
+        "Week": 7,
+        "HomeTeam": "TM18",
+        "AwayTeam": "TM29",
+        "Status": "Final",
+        "HomeScore": 26,
+        "AwayScore": 11,
+        "GameKey": "110"
+    },
+    {
+        "Season": 2025,
+        "Week": 7,
+        "HomeTeam": "TM26",
+        "AwayTeam": "TM15",
+        "Status": "Final",
+        "HomeScore": 30,
+        "AwayScore": 25,
+        "GameKey": "111"
+    },
+    {
+        "Season": 2025,
+        "Week": 7,
+        "HomeTeam": "TM14",
+        "AwayTeam": "TM12",
+        "Status": "Final",
+        "HomeScore": 27,
+        "AwayScore": 32,
+        "GameKey": "112"
+    },
+    {
+        "Season": 2025,
+        "Week": 8,
+        "HomeTeam": "TM17",
+        "AwayTeam": "TM29",
+        "Status": "Final",
+        "HomeScore": 22,
+        "AwayScore": 32,
+        "GameKey": "113"
+    },
+    {
+        "Season": 2025,
+        "Week": 8,
+        "HomeTeam": "TM3",
+        "AwayTeam": "TM5",
+        "Status": "Final",
+        "HomeScore": 18,
+        "AwayScore": 14,
+        "GameKey": "114"
+    },
+    {
+        "Season": 2025,
+        "Week": 8,
+        "HomeTeam": "TM1",
+        "AwayTeam": "TM16",
+        "Status": "Final",
+        "HomeScore": 33,
+        "AwayScore": 16,
+        "GameKey": "115"
+    },
+    {
+        "Season": 2025,
+        "Week": 8,
+        "HomeTeam": "TM0",
+        "AwayTeam": "TM7",
+        "Status": "Final",
+        "HomeScore": 33,
+        "AwayScore": 22,
+        "GameKey": "116"
+    },
+    {
+        "Season": 2025,
+        "Week": 8,
+        "HomeTeam": "TM11",
+        "AwayTeam": "TM23",
+        "Status": "Final",
+        "HomeScore": 32,
+        "AwayScore": 35,
+        "GameKey": "117"
+    },
+    {
+        "Season": 2025,
+        "Week": 8,
+        "HomeTeam": "TM22",
+        "AwayTeam": "TM27",
+        "Status": "Final",
+        "HomeScore": 20,
+        "AwayScore": 35,
+        "GameKey": "118"
+    },
+    {
+        "Season": 2025,
+        "Week": 8,
+        "HomeTeam": "TM15",
+        "AwayTeam": "TM10",
+        "Status": "Final",
+        "HomeScore": 23,
+        "AwayScore": 29,
+        "GameKey": "119"
+    },
+    {
+        "Season": 2025,
+        "Week": 8,
+        "HomeTeam": "TM21",
+        "AwayTeam": "TM6",
+        "Status": "Final",
+        "HomeScore": 15,
+        "AwayScore": 33,
+        "GameKey": "120"
+    },
+    {
+        "Season": 2025,
+        "Week": 8,
+        "HomeTeam": "TM14",
+        "AwayTeam": "TM13",
+        "Status": "Final",
+        "HomeScore": 26,
+        "AwayScore": 13,
+        "GameKey": "121"
+    },
+    {
+        "Season": 2025,
+        "Week": 8,
+        "HomeTeam": "TM30",
+        "AwayTeam": "TM18",
+        "Status": "Final",
+        "HomeScore": 15,
+        "AwayScore": 14,
+        "GameKey": "122"
+    },
+    {
+        "Season": 2025,
+        "Week": 8,
+        "HomeTeam": "TM26",
+        "AwayTeam": "TM2",
+        "Status": "Final",
+        "HomeScore": 12,
+        "AwayScore": 27,
+        "GameKey": "123"
+    },
+    {
+        "Season": 2025,
+        "Week": 8,
+        "HomeTeam": "TM4",
+        "AwayTeam": "TM9",
+        "Status": "Final",
+        "HomeScore": 34,
+        "AwayScore": 23,
+        "GameKey": "124"
+    },
+    {
+        "Season": 2025,
+        "Week": 8,
+        "HomeTeam": "TM20",
+        "AwayTeam": "TM25",
+        "Status": "Final",
+        "HomeScore": 31,
+        "AwayScore": 27,
+        "GameKey": "125"
+    },
+    {
+        "Season": 2025,
+        "Week": 8,
+        "HomeTeam": "TM24",
+        "AwayTeam": "TM31",
+        "Status": "Final",
+        "HomeScore": 33,
+        "AwayScore": 14,
+        "GameKey": "126"
+    },
+    {
+        "Season": 2025,
+        "Week": 8,
+        "HomeTeam": "TM28",
+        "AwayTeam": "TM12",
+        "Status": "Final",
+        "HomeScore": 14,
+        "AwayScore": 31,
+        "GameKey": "127"
+    },
+    {
+        "Season": 2025,
+        "Week": 8,
+        "HomeTeam": "TM19",
+        "AwayTeam": "TM8",
+        "Status": "Final",
+        "HomeScore": 27,
+        "AwayScore": 34,
+        "GameKey": "128"
+    },
+    {
+        "Season": 2025,
+        "Week": 9,
+        "HomeTeam": "TM9",
+        "AwayTeam": "TM31",
+        "Status": "Final",
+        "HomeScore": 21,
+        "AwayScore": 18,
+        "GameKey": "129"
+    },
+    {
+        "Season": 2025,
+        "Week": 9,
+        "HomeTeam": "TM22",
+        "AwayTeam": "TM19",
+        "Status": "Final",
+        "HomeScore": 21,
+        "AwayScore": 28,
+        "GameKey": "130"
+    },
+    {
+        "Season": 2025,
+        "Week": 9,
+        "HomeTeam": "TM16",
+        "AwayTeam": "TM18",
+        "Status": "Final",
+        "HomeScore": 21,
+        "AwayScore": 14,
+        "GameKey": "131"
+    },
+    {
+        "Season": 2025,
+        "Week": 9,
+        "HomeTeam": "TM20",
+        "AwayTeam": "TM8",
+        "Status": "Final",
+        "HomeScore": 19,
+        "AwayScore": 12,
+        "GameKey": "132"
+    },
+    {
+        "Season": 2025,
+        "Week": 9,
+        "HomeTeam": "TM21",
+        "AwayTeam": "TM29",
+        "Status": "Final",
+        "HomeScore": 23,
+        "AwayScore": 20,
+        "GameKey": "133"
+    },
+    {
+        "Season": 2025,
+        "Week": 9,
+        "HomeTeam": "TM17",
+        "AwayTeam": "TM23",
+        "Status": "Final",
+        "HomeScore": 26,
+        "AwayScore": 31,
+        "GameKey": "134"
+    },
+    {
+        "Season": 2025,
+        "Week": 9,
+        "HomeTeam": "TM11",
+        "AwayTeam": "TM5",
+        "Status": "Final",
+        "HomeScore": 20,
+        "AwayScore": 17,
+        "GameKey": "135"
+    },
+    {
+        "Season": 2025,
+        "Week": 9,
+        "HomeTeam": "TM27",
+        "AwayTeam": "TM7",
+        "Status": "Final",
+        "HomeScore": 10,
+        "AwayScore": 16,
+        "GameKey": "136"
+    },
+    {
+        "Season": 2025,
+        "Week": 9,
+        "HomeTeam": "TM2",
+        "AwayTeam": "TM12",
+        "Status": "Final",
+        "HomeScore": 34,
+        "AwayScore": 26,
+        "GameKey": "137"
+    },
+    {
+        "Season": 2025,
+        "Week": 9,
+        "HomeTeam": "TM0",
+        "AwayTeam": "TM3",
+        "Status": "Final",
+        "HomeScore": 13,
+        "AwayScore": 10,
+        "GameKey": "138"
+    },
+    {
+        "Season": 2025,
+        "Week": 9,
+        "HomeTeam": "TM1",
+        "AwayTeam": "TM6",
+        "Status": "Final",
+        "HomeScore": 24,
+        "AwayScore": 19,
+        "GameKey": "139"
+    },
+    {
+        "Season": 2025,
+        "Week": 9,
+        "HomeTeam": "TM24",
+        "AwayTeam": "TM28",
+        "Status": "Final",
+        "HomeScore": 25,
+        "AwayScore": 19,
+        "GameKey": "140"
+    },
+    {
+        "Season": 2025,
+        "Week": 9,
+        "HomeTeam": "TM30",
+        "AwayTeam": "TM26",
+        "Status": "Final",
+        "HomeScore": 15,
+        "AwayScore": 19,
+        "GameKey": "141"
+    },
+    {
+        "Season": 2025,
+        "Week": 9,
+        "HomeTeam": "TM15",
+        "AwayTeam": "TM4",
+        "Status": "Final",
+        "HomeScore": 29,
+        "AwayScore": 34,
+        "GameKey": "142"
+    },
+    {
+        "Season": 2025,
+        "Week": 9,
+        "HomeTeam": "TM10",
+        "AwayTeam": "TM13",
+        "Status": "Final",
+        "HomeScore": 33,
+        "AwayScore": 30,
+        "GameKey": "143"
+    },
+    {
+        "Season": 2025,
+        "Week": 9,
+        "HomeTeam": "TM14",
+        "AwayTeam": "TM25",
+        "Status": "Final",
+        "HomeScore": 19,
+        "AwayScore": 35,
+        "GameKey": "144"
+    },
+    {
+        "Season": 2025,
+        "Week": 10,
+        "HomeTeam": "TM21",
+        "AwayTeam": "TM26",
+        "Status": "Selected",
+        "HomeScore": null,
+        "AwayScore": null,
+        "GameKey": "145"
+    },
+    {
+        "Season": 2025,
+        "Week": 10,
+        "HomeTeam": "TM27",
+        "AwayTeam": "TM31",
+        "Status": "Selected",
+        "HomeScore": null,
+        "AwayScore": null,
+        "GameKey": "146"
+    },
+    {
+        "Season": 2025,
+        "Week": 10,
+        "HomeTeam": "TM7",
+        "AwayTeam": "TM14",
+        "Status": "Selected",
+        "HomeScore": null,
+        "AwayScore": null,
+        "GameKey": "147"
+    },
+    {
+        "Season": 2025,
+        "Week": 10,
+        "HomeTeam": "TM6",
+        "AwayTeam": "TM0",
+        "Status": "Selected",
+        "HomeScore": null,
+        "AwayScore": null,
+        "GameKey": "148"
+    },
+    {
+        "Season": 2025,
+        "Week": 10,
+        "HomeTeam": "TM29",
+        "AwayTeam": "TM28",
+        "Status": "Selected",
+        "HomeScore": null,
+        "AwayScore": null,
+        "GameKey": "149"
+    },
+    {
+        "Season": 2025,
+        "Week": 10,
+        "HomeTeam": "TM8",
+        "AwayTeam": "TM10",
+        "Status": "Selected",
+        "HomeScore": null,
+        "AwayScore": null,
+        "GameKey": "150"
+    },
+    {
+        "Season": 2025,
+        "Week": 10,
+        "HomeTeam": "TM4",
+        "AwayTeam": "TM5",
+        "Status": "Selected",
+        "HomeScore": null,
+        "AwayScore": null,
+        "GameKey": "151"
+    },
+    {
+        "Season": 2025,
+        "Week": 10,
+        "HomeTeam": "TM12",
+        "AwayTeam": "TM30",
+        "Status": "Selected",
+        "HomeScore": null,
+        "AwayScore": null,
+        "GameKey": "152"
+    },
+    {
+        "Season": 2025,
+        "Week": 10,
+        "HomeTeam": "TM20",
+        "AwayTeam": "TM23",
+        "Status": "Selected",
+        "HomeScore": null,
+        "AwayScore": null,
+        "GameKey": "153"
+    },
+    {
+        "Season": 2025,
+        "Week": 10,
+        "HomeTeam": "TM24",
+        "AwayTeam": "TM25",
+        "Status": "Selected",
+        "HomeScore": null,
+        "AwayScore": null,
+        "GameKey": "154"
+    },
+    {
+        "Season": 2025,
+        "Week": 10,
+        "HomeTeam": "TM2",
+        "AwayTeam": "TM17",
+        "Status": "Selected",
+        "HomeScore": null,
+        "AwayScore": null,
+        "GameKey": "155"
+    },
+    {
+        "Season": 2025,
+        "Week": 10,
+        "HomeTeam": "TM3",
+        "AwayTeam": "TM18",
+        "Status": "Selected",
+        "HomeScore": null,
+        "AwayScore": null,
+        "GameKey": "156"
+    },
+    {
+        "Season": 2025,
+        "Week": 10,
+        "HomeTeam": "TM15",
+        "AwayTeam": "TM11",
+        "Status": "Selected",
+        "HomeScore": null,
+        "AwayScore": null,
+        "GameKey": "157"
+    },
+    {
+        "Season": 2025,
+        "Week": 10,
+        "HomeTeam": "TM19",
+        "AwayTeam": "TM22",
+        "Status": "Selected",
+        "HomeScore": null,
+        "AwayScore": null,
+        "GameKey": "158"
+    },
+    {
+        "Season": 2025,
+        "Week": 10,
+        "HomeTeam": "TM16",
+        "AwayTeam": "TM9",
+        "Status": "Selected",
+        "HomeScore": null,
+        "AwayScore": null,
+        "GameKey": "159"
+    },
+    {
+        "Season": 2025,
+        "Week": 10,
+        "HomeTeam": "TM13",
+        "AwayTeam": "TM1",
+        "Status": "Selected",
+        "HomeScore": null,
+        "AwayScore": null,
+        "GameKey": "160"
+    },
+    {
+        "Season": 2025,
+        "Week": 11,
+        "HomeTeam": "TM27",
+        "AwayTeam": "TM17",
+        "Status": "Selected",
+        "HomeScore": null,
+        "AwayScore": null,
+        "GameKey": "161"
+    },
+    {
+        "Season": 2025,
+        "Week": 11,
+        "HomeTeam": "TM23",
+        "AwayTeam": "TM20",
+        "Status": "Selected",
+        "HomeScore": null,
+        "AwayScore": null,
+        "GameKey": "162"
+    },
+    {
+        "Season": 2025,
+        "Week": 11,
+        "HomeTeam": "TM5",
+        "AwayTeam": "TM29",
+        "Status": "Selected",
+        "HomeScore": null,
+        "AwayScore": null,
+        "GameKey": "163"
+    },
+    {
+        "Season": 2025,
+        "Week": 11,
+        "HomeTeam": "TM25",
+        "AwayTeam": "TM24",
+        "Status": "Selected",
+        "HomeScore": null,
+        "AwayScore": null,
+        "GameKey": "164"
+    },
+    {
+        "Season": 2025,
+        "Week": 11,
+        "HomeTeam": "TM11",
+        "AwayTeam": "TM3",
+        "Status": "Selected",
+        "HomeScore": null,
+        "AwayScore": null,
+        "GameKey": "165"
+    },
+    {
+        "Season": 2025,
+        "Week": 11,
+        "HomeTeam": "TM10",
+        "AwayTeam": "TM2",
+        "Status": "Selected",
+        "HomeScore": null,
+        "AwayScore": null,
+        "GameKey": "166"
+    },
+    {
+        "Season": 2025,
+        "Week": 11,
+        "HomeTeam": "TM7",
+        "AwayTeam": "TM31",
+        "Status": "Selected",
+        "HomeScore": null,
+        "AwayScore": null,
+        "GameKey": "167"
+    },
+    {
+        "Season": 2025,
+        "Week": 11,
+        "HomeTeam": "TM22",
+        "AwayTeam": "TM9",
+        "Status": "Selected",
+        "HomeScore": null,
+        "AwayScore": null,
+        "GameKey": "168"
+    },
+    {
+        "Season": 2025,
+        "Week": 11,
+        "HomeTeam": "TM0",
+        "AwayTeam": "TM8",
+        "Status": "Selected",
+        "HomeScore": null,
+        "AwayScore": null,
+        "GameKey": "169"
+    },
+    {
+        "Season": 2025,
+        "Week": 11,
+        "HomeTeam": "TM4",
+        "AwayTeam": "TM30",
+        "Status": "Selected",
+        "HomeScore": null,
+        "AwayScore": null,
+        "GameKey": "170"
+    },
+    {
+        "Season": 2025,
+        "Week": 11,
+        "HomeTeam": "TM18",
+        "AwayTeam": "TM15",
+        "Status": "Selected",
+        "HomeScore": null,
+        "AwayScore": null,
+        "GameKey": "171"
+    },
+    {
+        "Season": 2025,
+        "Week": 11,
+        "HomeTeam": "TM13",
+        "AwayTeam": "TM16",
+        "Status": "Selected",
+        "HomeScore": null,
+        "AwayScore": null,
+        "GameKey": "172"
+    },
+    {
+        "Season": 2025,
+        "Week": 11,
+        "HomeTeam": "TM1",
+        "AwayTeam": "TM26",
+        "Status": "Selected",
+        "HomeScore": null,
+        "AwayScore": null,
+        "GameKey": "173"
+    },
+    {
+        "Season": 2025,
+        "Week": 11,
+        "HomeTeam": "TM19",
+        "AwayTeam": "TM14",
+        "Status": "Selected",
+        "HomeScore": null,
+        "AwayScore": null,
+        "GameKey": "174"
+    },
+    {
+        "Season": 2025,
+        "Week": 11,
+        "HomeTeam": "TM12",
+        "AwayTeam": "TM21",
+        "Status": "Selected",
+        "HomeScore": null,
+        "AwayScore": null,
+        "GameKey": "175"
+    },
+    {
+        "Season": 2025,
+        "Week": 11,
+        "HomeTeam": "TM28",
+        "AwayTeam": "TM6",
+        "Status": "Selected",
+        "HomeScore": null,
+        "AwayScore": null,
+        "GameKey": "176"
+    },
+    {
+        "Season": 2025,
+        "Week": 12,
+        "HomeTeam": "TM15",
+        "AwayTeam": "TM27",
+        "Status": "Selected",
+        "HomeScore": null,
+        "AwayScore": null,
+        "GameKey": "177"
+    },
+    {
+        "Season": 2025,
+        "Week": 12,
+        "HomeTeam": "TM3",
+        "AwayTeam": "TM10",
+        "Status": "Selected",
+        "HomeScore": null,
+        "AwayScore": null,
+        "GameKey": "178"
+    },
+    {
+        "Season": 2025,
+        "Week": 12,
+        "HomeTeam": "TM31",
+        "AwayTeam": "TM7",
+        "Status": "Selected",
+        "HomeScore": null,
+        "AwayScore": null,
+        "GameKey": "179"
+    },
+    {
+        "Season": 2025,
+        "Week": 12,
+        "HomeTeam": "TM12",
+        "AwayTeam": "TM28",
+        "Status": "Selected",
+        "HomeScore": null,
+        "AwayScore": null,
+        "GameKey": "180"
+    },
+    {
+        "Season": 2025,
+        "Week": 12,
+        "HomeTeam": "TM26",
+        "AwayTeam": "TM2",
+        "Status": "Selected",
+        "HomeScore": null,
+        "AwayScore": null,
+        "GameKey": "181"
+    },
+    {
+        "Season": 2025,
+        "Week": 12,
+        "HomeTeam": "TM29",
+        "AwayTeam": "TM22",
+        "Status": "Selected",
+        "HomeScore": null,
+        "AwayScore": null,
+        "GameKey": "182"
+    },
+    {
+        "Season": 2025,
+        "Week": 12,
+        "HomeTeam": "TM25",
+        "AwayTeam": "TM23",
+        "Status": "Selected",
+        "HomeScore": null,
+        "AwayScore": null,
+        "GameKey": "183"
+    },
+    {
+        "Season": 2025,
+        "Week": 12,
+        "HomeTeam": "TM8",
+        "AwayTeam": "TM16",
+        "Status": "Selected",
+        "HomeScore": null,
+        "AwayScore": null,
+        "GameKey": "184"
+    },
+    {
+        "Season": 2025,
+        "Week": 12,
+        "HomeTeam": "TM30",
+        "AwayTeam": "TM5",
+        "Status": "Selected",
+        "HomeScore": null,
+        "AwayScore": null,
+        "GameKey": "185"
+    },
+    {
+        "Season": 2025,
+        "Week": 12,
+        "HomeTeam": "TM14",
+        "AwayTeam": "TM0",
+        "Status": "Selected",
+        "HomeScore": null,
+        "AwayScore": null,
+        "GameKey": "186"
+    },
+    {
+        "Season": 2025,
+        "Week": 12,
+        "HomeTeam": "TM13",
+        "AwayTeam": "TM11",
+        "Status": "Selected",
+        "HomeScore": null,
+        "AwayScore": null,
+        "GameKey": "187"
+    },
+    {
+        "Season": 2025,
+        "Week": 12,
+        "HomeTeam": "TM21",
+        "AwayTeam": "TM6",
+        "Status": "Selected",
+        "HomeScore": null,
+        "AwayScore": null,
+        "GameKey": "188"
+    },
+    {
+        "Season": 2025,
+        "Week": 12,
+        "HomeTeam": "TM19",
+        "AwayTeam": "TM18",
+        "Status": "Selected",
+        "HomeScore": null,
+        "AwayScore": null,
+        "GameKey": "189"
+    },
+    {
+        "Season": 2025,
+        "Week": 12,
+        "HomeTeam": "TM20",
+        "AwayTeam": "TM17",
+        "Status": "Selected",
+        "HomeScore": null,
+        "AwayScore": null,
+        "GameKey": "190"
+    },
+    {
+        "Season": 2025,
+        "Week": 12,
+        "HomeTeam": "TM1",
+        "AwayTeam": "TM24",
+        "Status": "Selected",
+        "HomeScore": null,
+        "AwayScore": null,
+        "GameKey": "191"
+    },
+    {
+        "Season": 2025,
+        "Week": 12,
+        "HomeTeam": "TM4",
+        "AwayTeam": "TM9",
+        "Status": "Selected",
+        "HomeScore": null,
+        "AwayScore": null,
+        "GameKey": "192"
+    },
+    {
+        "Season": 2025,
+        "Week": 13,
+        "HomeTeam": "TM17",
+        "AwayTeam": "TM10",
+        "Status": "Selected",
+        "HomeScore": null,
+        "AwayScore": null,
+        "GameKey": "193"
+    },
+    {
+        "Season": 2025,
+        "Week": 13,
+        "HomeTeam": "TM21",
+        "AwayTeam": "TM16",
+        "Status": "Selected",
+        "HomeScore": null,
+        "AwayScore": null,
+        "GameKey": "194"
+    },
+    {
+        "Season": 2025,
+        "Week": 13,
+        "HomeTeam": "TM25",
+        "AwayTeam": "TM13",
+        "Status": "Selected",
+        "HomeScore": null,
+        "AwayScore": null,
+        "GameKey": "195"
+    },
+    {
+        "Season": 2025,
+        "Week": 13,
+        "HomeTeam": "TM2",
+        "AwayTeam": "TM1",
+        "Status": "Selected",
+        "HomeScore": null,
+        "AwayScore": null,
+        "GameKey": "196"
+    },
+    {
+        "Season": 2025,
+        "Week": 13,
+        "HomeTeam": "TM26",
+        "AwayTeam": "TM22",
+        "Status": "Selected",
+        "HomeScore": null,
+        "AwayScore": null,
+        "GameKey": "197"
+    },
+    {
+        "Season": 2025,
+        "Week": 13,
+        "HomeTeam": "TM6",
+        "AwayTeam": "TM11",
+        "Status": "Selected",
+        "HomeScore": null,
+        "AwayScore": null,
+        "GameKey": "198"
+    },
+    {
+        "Season": 2025,
+        "Week": 13,
+        "HomeTeam": "TM0",
+        "AwayTeam": "TM4",
+        "Status": "Selected",
+        "HomeScore": null,
+        "AwayScore": null,
+        "GameKey": "199"
+    },
+    {
+        "Season": 2025,
+        "Week": 13,
+        "HomeTeam": "TM31",
+        "AwayTeam": "TM28",
+        "Status": "Selected",
+        "HomeScore": null,
+        "AwayScore": null,
+        "GameKey": "200"
+    },
+    {
+        "Season": 2025,
+        "Week": 13,
+        "HomeTeam": "TM18",
+        "AwayTeam": "TM14",
+        "Status": "Selected",
+        "HomeScore": null,
+        "AwayScore": null,
+        "GameKey": "201"
+    },
+    {
+        "Season": 2025,
+        "Week": 13,
+        "HomeTeam": "TM7",
+        "AwayTeam": "TM23",
+        "Status": "Selected",
+        "HomeScore": null,
+        "AwayScore": null,
+        "GameKey": "202"
+    },
+    {
+        "Season": 2025,
+        "Week": 13,
+        "HomeTeam": "TM19",
+        "AwayTeam": "TM8",
+        "Status": "Selected",
+        "HomeScore": null,
+        "AwayScore": null,
+        "GameKey": "203"
+    },
+    {
+        "Season": 2025,
+        "Week": 13,
+        "HomeTeam": "TM29",
+        "AwayTeam": "TM27",
+        "Status": "Selected",
+        "HomeScore": null,
+        "AwayScore": null,
+        "GameKey": "204"
+    },
+    {
+        "Season": 2025,
+        "Week": 13,
+        "HomeTeam": "TM15",
+        "AwayTeam": "TM20",
+        "Status": "Selected",
+        "HomeScore": null,
+        "AwayScore": null,
+        "GameKey": "205"
+    },
+    {
+        "Season": 2025,
+        "Week": 13,
+        "HomeTeam": "TM12",
+        "AwayTeam": "TM5",
+        "Status": "Selected",
+        "HomeScore": null,
+        "AwayScore": null,
+        "GameKey": "206"
+    },
+    {
+        "Season": 2025,
+        "Week": 13,
+        "HomeTeam": "TM30",
+        "AwayTeam": "TM24",
+        "Status": "Selected",
+        "HomeScore": null,
+        "AwayScore": null,
+        "GameKey": "207"
+    },
+    {
+        "Season": 2025,
+        "Week": 13,
+        "HomeTeam": "TM3",
+        "AwayTeam": "TM9",
+        "Status": "Selected",
+        "HomeScore": null,
+        "AwayScore": null,
+        "GameKey": "208"
+    },
+    {
+        "Season": 2025,
+        "Week": 14,
+        "HomeTeam": "TM19",
+        "AwayTeam": "TM9",
+        "Status": "Selected",
+        "HomeScore": null,
+        "AwayScore": null,
+        "GameKey": "209"
+    },
+    {
+        "Season": 2025,
+        "Week": 14,
+        "HomeTeam": "TM25",
+        "AwayTeam": "TM30",
+        "Status": "Selected",
+        "HomeScore": null,
+        "AwayScore": null,
+        "GameKey": "210"
+    },
+    {
+        "Season": 2025,
+        "Week": 14,
+        "HomeTeam": "TM5",
+        "AwayTeam": "TM12",
+        "Status": "Selected",
+        "HomeScore": null,
+        "AwayScore": null,
+        "GameKey": "211"
+    },
+    {
+        "Season": 2025,
+        "Week": 14,
+        "HomeTeam": "TM29",
+        "AwayTeam": "TM7",
+        "Status": "Selected",
+        "HomeScore": null,
+        "AwayScore": null,
+        "GameKey": "212"
+    },
+    {
+        "Season": 2025,
+        "Week": 14,
+        "HomeTeam": "TM15",
+        "AwayTeam": "TM31",
+        "Status": "Selected",
+        "HomeScore": null,
+        "AwayScore": null,
+        "GameKey": "213"
+    },
+    {
+        "Season": 2025,
+        "Week": 14,
+        "HomeTeam": "TM14",
+        "AwayTeam": "TM10",
+        "Status": "Selected",
+        "HomeScore": null,
+        "AwayScore": null,
+        "GameKey": "214"
+    },
+    {
+        "Season": 2025,
+        "Week": 14,
+        "HomeTeam": "TM0",
+        "AwayTeam": "TM27",
+        "Status": "Selected",
+        "HomeScore": null,
+        "AwayScore": null,
+        "GameKey": "215"
+    },
+    {
+        "Season": 2025,
+        "Week": 14,
+        "HomeTeam": "TM16",
+        "AwayTeam": "TM3",
+        "Status": "Selected",
+        "HomeScore": null,
+        "AwayScore": null,
+        "GameKey": "216"
+    },
+    {
+        "Season": 2025,
+        "Week": 14,
+        "HomeTeam": "TM24",
+        "AwayTeam": "TM21",
+        "Status": "Selected",
+        "HomeScore": null,
+        "AwayScore": null,
+        "GameKey": "217"
+    },
+    {
+        "Season": 2025,
+        "Week": 14,
+        "HomeTeam": "TM4",
+        "AwayTeam": "TM26",
+        "Status": "Selected",
+        "HomeScore": null,
+        "AwayScore": null,
+        "GameKey": "218"
+    },
+    {
+        "Season": 2025,
+        "Week": 14,
+        "HomeTeam": "TM22",
+        "AwayTeam": "TM6",
+        "Status": "Selected",
+        "HomeScore": null,
+        "AwayScore": null,
+        "GameKey": "219"
+    },
+    {
+        "Season": 2025,
+        "Week": 14,
+        "HomeTeam": "TM8",
+        "AwayTeam": "TM17",
+        "Status": "Selected",
+        "HomeScore": null,
+        "AwayScore": null,
+        "GameKey": "220"
+    },
+    {
+        "Season": 2025,
+        "Week": 14,
+        "HomeTeam": "TM13",
+        "AwayTeam": "TM20",
+        "Status": "Selected",
+        "HomeScore": null,
+        "AwayScore": null,
+        "GameKey": "221"
+    },
+    {
+        "Season": 2025,
+        "Week": 14,
+        "HomeTeam": "TM11",
+        "AwayTeam": "TM2",
+        "Status": "Selected",
+        "HomeScore": null,
+        "AwayScore": null,
+        "GameKey": "222"
+    },
+    {
+        "Season": 2025,
+        "Week": 14,
+        "HomeTeam": "TM23",
+        "AwayTeam": "TM28",
+        "Status": "Selected",
+        "HomeScore": null,
+        "AwayScore": null,
+        "GameKey": "223"
+    },
+    {
+        "Season": 2025,
+        "Week": 14,
+        "HomeTeam": "TM18",
+        "AwayTeam": "TM1",
+        "Status": "Selected",
+        "HomeScore": null,
+        "AwayScore": null,
+        "GameKey": "224"
+    },
+    {
+        "Season": 2025,
+        "Week": 15,
+        "HomeTeam": "TM31",
+        "AwayTeam": "TM15",
+        "Status": "Selected",
+        "HomeScore": null,
+        "AwayScore": null,
+        "GameKey": "225"
+    },
+    {
+        "Season": 2025,
+        "Week": 15,
+        "HomeTeam": "TM13",
+        "AwayTeam": "TM2",
+        "Status": "Selected",
+        "HomeScore": null,
+        "AwayScore": null,
+        "GameKey": "226"
+    },
+    {
+        "Season": 2025,
+        "Week": 15,
+        "HomeTeam": "TM22",
+        "AwayTeam": "TM27",
+        "Status": "Selected",
+        "HomeScore": null,
+        "AwayScore": null,
+        "GameKey": "227"
+    },
+    {
+        "Season": 2025,
+        "Week": 15,
+        "HomeTeam": "TM30",
+        "AwayTeam": "TM9",
+        "Status": "Selected",
+        "HomeScore": null,
+        "AwayScore": null,
+        "GameKey": "228"
+    },
+    {
+        "Season": 2025,
+        "Week": 15,
+        "HomeTeam": "TM4",
+        "AwayTeam": "TM3",
+        "Status": "Selected",
+        "HomeScore": null,
+        "AwayScore": null,
+        "GameKey": "229"
+    },
+    {
+        "Season": 2025,
+        "Week": 15,
+        "HomeTeam": "TM7",
+        "AwayTeam": "TM5",
+        "Status": "Selected",
+        "HomeScore": null,
+        "AwayScore": null,
+        "GameKey": "230"
+    },
+    {
+        "Season": 2025,
+        "Week": 15,
+        "HomeTeam": "TM19",
+        "AwayTeam": "TM8",
+        "Status": "Selected",
+        "HomeScore": null,
+        "AwayScore": null,
+        "GameKey": "231"
+    },
+    {
+        "Season": 2025,
+        "Week": 15,
+        "HomeTeam": "TM25",
+        "AwayTeam": "TM6",
+        "Status": "Selected",
+        "HomeScore": null,
+        "AwayScore": null,
+        "GameKey": "232"
+    },
+    {
+        "Season": 2025,
+        "Week": 15,
+        "HomeTeam": "TM1",
+        "AwayTeam": "TM12",
+        "Status": "Selected",
+        "HomeScore": null,
+        "AwayScore": null,
+        "GameKey": "233"
+    },
+    {
+        "Season": 2025,
+        "Week": 15,
+        "HomeTeam": "TM26",
+        "AwayTeam": "TM20",
+        "Status": "Selected",
+        "HomeScore": null,
+        "AwayScore": null,
+        "GameKey": "234"
+    },
+    {
+        "Season": 2025,
+        "Week": 15,
+        "HomeTeam": "TM18",
+        "AwayTeam": "TM28",
+        "Status": "Selected",
+        "HomeScore": null,
+        "AwayScore": null,
+        "GameKey": "235"
+    },
+    {
+        "Season": 2025,
+        "Week": 15,
+        "HomeTeam": "TM11",
+        "AwayTeam": "TM23",
+        "Status": "Selected",
+        "HomeScore": null,
+        "AwayScore": null,
+        "GameKey": "236"
+    },
+    {
+        "Season": 2025,
+        "Week": 15,
+        "HomeTeam": "TM10",
+        "AwayTeam": "TM21",
+        "Status": "Selected",
+        "HomeScore": null,
+        "AwayScore": null,
+        "GameKey": "237"
+    },
+    {
+        "Season": 2025,
+        "Week": 15,
+        "HomeTeam": "TM16",
+        "AwayTeam": "TM14",
+        "Status": "Selected",
+        "HomeScore": null,
+        "AwayScore": null,
+        "GameKey": "238"
+    },
+    {
+        "Season": 2025,
+        "Week": 15,
+        "HomeTeam": "TM17",
+        "AwayTeam": "TM0",
+        "Status": "Selected",
+        "HomeScore": null,
+        "AwayScore": null,
+        "GameKey": "239"
+    },
+    {
+        "Season": 2025,
+        "Week": 15,
+        "HomeTeam": "TM29",
+        "AwayTeam": "TM24",
+        "Status": "Selected",
+        "HomeScore": null,
+        "AwayScore": null,
+        "GameKey": "240"
+    },
+    {
+        "Season": 2025,
+        "Week": 16,
+        "HomeTeam": "TM29",
+        "AwayTeam": "TM22",
+        "Status": "Selected",
+        "HomeScore": null,
+        "AwayScore": null,
+        "GameKey": "241"
+    },
+    {
+        "Season": 2025,
+        "Week": 16,
+        "HomeTeam": "TM27",
+        "AwayTeam": "TM18",
+        "Status": "Selected",
+        "HomeScore": null,
+        "AwayScore": null,
+        "GameKey": "242"
+    },
+    {
+        "Season": 2025,
+        "Week": 16,
+        "HomeTeam": "TM26",
+        "AwayTeam": "TM4",
+        "Status": "Selected",
+        "HomeScore": null,
+        "AwayScore": null,
+        "GameKey": "243"
+    },
+    {
+        "Season": 2025,
+        "Week": 16,
+        "HomeTeam": "TM8",
+        "AwayTeam": "TM10",
+        "Status": "Selected",
+        "HomeScore": null,
+        "AwayScore": null,
+        "GameKey": "244"
+    },
+    {
+        "Season": 2025,
+        "Week": 16,
+        "HomeTeam": "TM2",
+        "AwayTeam": "TM14",
+        "Status": "Selected",
+        "HomeScore": null,
+        "AwayScore": null,
+        "GameKey": "245"
+    },
+    {
+        "Season": 2025,
+        "Week": 16,
+        "HomeTeam": "TM31",
+        "AwayTeam": "TM11",
+        "Status": "Selected",
+        "HomeScore": null,
+        "AwayScore": null,
+        "GameKey": "246"
+    },
+    {
+        "Season": 2025,
+        "Week": 16,
+        "HomeTeam": "TM17",
+        "AwayTeam": "TM6",
+        "Status": "Selected",
+        "HomeScore": null,
+        "AwayScore": null,
+        "GameKey": "247"
+    },
+    {
+        "Season": 2025,
+        "Week": 16,
+        "HomeTeam": "TM3",
+        "AwayTeam": "TM19",
+        "Status": "Selected",
+        "HomeScore": null,
+        "AwayScore": null,
+        "GameKey": "248"
+    },
+    {
+        "Season": 2025,
+        "Week": 16,
+        "HomeTeam": "TM28",
+        "AwayTeam": "TM24",
+        "Status": "Selected",
+        "HomeScore": null,
+        "AwayScore": null,
+        "GameKey": "249"
+    },
+    {
+        "Season": 2025,
+        "Week": 16,
+        "HomeTeam": "TM0",
+        "AwayTeam": "TM15",
+        "Status": "Selected",
+        "HomeScore": null,
+        "AwayScore": null,
+        "GameKey": "250"
+    },
+    {
+        "Season": 2025,
+        "Week": 16,
+        "HomeTeam": "TM20",
+        "AwayTeam": "TM5",
+        "Status": "Selected",
+        "HomeScore": null,
+        "AwayScore": null,
+        "GameKey": "251"
+    },
+    {
+        "Season": 2025,
+        "Week": 16,
+        "HomeTeam": "TM9",
+        "AwayTeam": "TM13",
+        "Status": "Selected",
+        "HomeScore": null,
+        "AwayScore": null,
+        "GameKey": "252"
+    },
+    {
+        "Season": 2025,
+        "Week": 16,
+        "HomeTeam": "TM23",
+        "AwayTeam": "TM21",
+        "Status": "Selected",
+        "HomeScore": null,
+        "AwayScore": null,
+        "GameKey": "253"
+    },
+    {
+        "Season": 2025,
+        "Week": 16,
+        "HomeTeam": "TM30",
+        "AwayTeam": "TM25",
+        "Status": "Selected",
+        "HomeScore": null,
+        "AwayScore": null,
+        "GameKey": "254"
+    },
+    {
+        "Season": 2025,
+        "Week": 16,
+        "HomeTeam": "TM1",
+        "AwayTeam": "TM12",
+        "Status": "Selected",
+        "HomeScore": null,
+        "AwayScore": null,
+        "GameKey": "255"
+    },
+    {
+        "Season": 2025,
+        "Week": 16,
+        "HomeTeam": "TM16",
+        "AwayTeam": "TM7",
+        "Status": "Selected",
+        "HomeScore": null,
+        "AwayScore": null,
+        "GameKey": "256"
+    },
+    {
+        "Season": 2025,
+        "Week": 17,
+        "HomeTeam": "TM9",
+        "AwayTeam": "TM13",
+        "Status": "Selected",
+        "HomeScore": null,
+        "AwayScore": null,
+        "GameKey": "257"
+    },
+    {
+        "Season": 2025,
+        "Week": 17,
+        "HomeTeam": "TM3",
+        "AwayTeam": "TM17",
+        "Status": "Selected",
+        "HomeScore": null,
+        "AwayScore": null,
+        "GameKey": "258"
+    },
+    {
+        "Season": 2025,
+        "Week": 17,
+        "HomeTeam": "TM26",
+        "AwayTeam": "TM15",
+        "Status": "Selected",
+        "HomeScore": null,
+        "AwayScore": null,
+        "GameKey": "259"
+    },
+    {
+        "Season": 2025,
+        "Week": 17,
+        "HomeTeam": "TM14",
+        "AwayTeam": "TM29",
+        "Status": "Selected",
+        "HomeScore": null,
+        "AwayScore": null,
+        "GameKey": "260"
+    },
+    {
+        "Season": 2025,
+        "Week": 17,
+        "HomeTeam": "TM24",
+        "AwayTeam": "TM31",
+        "Status": "Selected",
+        "HomeScore": null,
+        "AwayScore": null,
+        "GameKey": "261"
+    },
+    {
+        "Season": 2025,
+        "Week": 17,
+        "HomeTeam": "TM21",
+        "AwayTeam": "TM12",
+        "Status": "Selected",
+        "HomeScore": null,
+        "AwayScore": null,
+        "GameKey": "262"
+    },
+    {
+        "Season": 2025,
+        "Week": 17,
+        "HomeTeam": "TM8",
+        "AwayTeam": "TM4",
+        "Status": "Selected",
+        "HomeScore": null,
+        "AwayScore": null,
+        "GameKey": "263"
+    },
+    {
+        "Season": 2025,
+        "Week": 17,
+        "HomeTeam": "TM6",
+        "AwayTeam": "TM27",
+        "Status": "Selected",
+        "HomeScore": null,
+        "AwayScore": null,
+        "GameKey": "264"
+    },
+    {
+        "Season": 2025,
+        "Week": 17,
+        "HomeTeam": "TM25",
+        "AwayTeam": "TM20",
+        "Status": "Selected",
+        "HomeScore": null,
+        "AwayScore": null,
+        "GameKey": "265"
+    },
+    {
+        "Season": 2025,
+        "Week": 17,
+        "HomeTeam": "TM0",
+        "AwayTeam": "TM7",
+        "Status": "Selected",
+        "HomeScore": null,
+        "AwayScore": null,
+        "GameKey": "266"
+    },
+    {
+        "Season": 2025,
+        "Week": 17,
+        "HomeTeam": "TM28",
+        "AwayTeam": "TM5",
+        "Status": "Selected",
+        "HomeScore": null,
+        "AwayScore": null,
+        "GameKey": "267"
+    },
+    {
+        "Season": 2025,
+        "Week": 17,
+        "HomeTeam": "TM23",
+        "AwayTeam": "TM1",
+        "Status": "Selected",
+        "HomeScore": null,
+        "AwayScore": null,
+        "GameKey": "268"
+    },
+    {
+        "Season": 2025,
+        "Week": 17,
+        "HomeTeam": "TM19",
+        "AwayTeam": "TM22",
+        "Status": "Selected",
+        "HomeScore": null,
+        "AwayScore": null,
+        "GameKey": "269"
+    },
+    {
+        "Season": 2025,
+        "Week": 17,
+        "HomeTeam": "TM2",
+        "AwayTeam": "TM16",
+        "Status": "Selected",
+        "HomeScore": null,
+        "AwayScore": null,
+        "GameKey": "270"
+    },
+    {
+        "Season": 2025,
+        "Week": 17,
+        "HomeTeam": "TM30",
+        "AwayTeam": "TM18",
+        "Status": "Selected",
+        "HomeScore": null,
+        "AwayScore": null,
+        "GameKey": "271"
+    },
+    {
+        "Season": 2025,
+        "Week": 17,
+        "HomeTeam": "TM11",
+        "AwayTeam": "TM10",
+        "Status": "Selected",
+        "HomeScore": null,
+        "AwayScore": null,
+        "GameKey": "272"
+    },
+    {
+        "Season": 2025,
+        "Week": 18,
+        "HomeTeam": "TM10",
+        "AwayTeam": "TM2",
+        "Status": "Selected",
+        "HomeScore": null,
+        "AwayScore": null,
+        "GameKey": "273"
+    },
+    {
+        "Season": 2025,
+        "Week": 18,
+        "HomeTeam": "TM24",
+        "AwayTeam": "TM31",
+        "Status": "Selected",
+        "HomeScore": null,
+        "AwayScore": null,
+        "GameKey": "274"
+    },
+    {
+        "Season": 2025,
+        "Week": 18,
+        "HomeTeam": "TM3",
+        "AwayTeam": "TM28",
+        "Status": "Selected",
+        "HomeScore": null,
+        "AwayScore": null,
+        "GameKey": "275"
+    },
+    {
+        "Season": 2025,
+        "Week": 18,
+        "HomeTeam": "TM22",
+        "AwayTeam": "TM1",
+        "Status": "Selected",
+        "HomeScore": null,
+        "AwayScore": null,
+        "GameKey": "276"
+    },
+    {
+        "Season": 2025,
+        "Week": 18,
+        "HomeTeam": "TM7",
+        "AwayTeam": "TM0",
+        "Status": "Selected",
+        "HomeScore": null,
+        "AwayScore": null,
+        "GameKey": "277"
+    },
+    {
+        "Season": 2025,
+        "Week": 18,
+        "HomeTeam": "TM17",
+        "AwayTeam": "TM26",
+        "Status": "Selected",
+        "HomeScore": null,
+        "AwayScore": null,
+        "GameKey": "278"
+    },
+    {
+        "Season": 2025,
+        "Week": 18,
+        "HomeTeam": "TM30",
+        "AwayTeam": "TM15",
+        "Status": "Selected",
+        "HomeScore": null,
+        "AwayScore": null,
+        "GameKey": "279"
+    },
+    {
+        "Season": 2025,
+        "Week": 18,
+        "HomeTeam": "TM27",
+        "AwayTeam": "TM12",
+        "Status": "Selected",
+        "HomeScore": null,
+        "AwayScore": null,
+        "GameKey": "280"
+    },
+    {
+        "Season": 2025,
+        "Week": 18,
+        "HomeTeam": "TM23",
+        "AwayTeam": "TM8",
+        "Status": "Selected",
+        "HomeScore": null,
+        "AwayScore": null,
+        "GameKey": "281"
+    },
+    {
+        "Season": 2025,
+        "Week": 18,
+        "HomeTeam": "TM20",
+        "AwayTeam": "TM5",
+        "Status": "Selected",
+        "HomeScore": null,
+        "AwayScore": null,
+        "GameKey": "282"
+    },
+    {
+        "Season": 2025,
+        "Week": 18,
+        "HomeTeam": "TM4",
+        "AwayTeam": "TM13",
+        "Status": "Selected",
+        "HomeScore": null,
+        "AwayScore": null,
+        "GameKey": "283"
+    },
+    {
+        "Season": 2025,
+        "Week": 18,
+        "HomeTeam": "TM21",
+        "AwayTeam": "TM25",
+        "Status": "Selected",
+        "HomeScore": null,
+        "AwayScore": null,
+        "GameKey": "284"
+    },
+    {
+        "Season": 2025,
+        "Week": 18,
+        "HomeTeam": "TM16",
+        "AwayTeam": "TM9",
+        "Status": "Selected",
+        "HomeScore": null,
+        "AwayScore": null,
+        "GameKey": "285"
+    },
+    {
+        "Season": 2025,
+        "Week": 18,
+        "HomeTeam": "TM11",
+        "AwayTeam": "TM18",
+        "Status": "Selected",
+        "HomeScore": null,
+        "AwayScore": null,
+        "GameKey": "286"
+    },
+    {
+        "Season": 2025,
+        "Week": 18,
+        "HomeTeam": "TM6",
+        "AwayTeam": "TM29",
+        "Status": "Selected",
+        "HomeScore": null,
+        "AwayScore": null,
+        "GameKey": "287"
+    },
+    {
+        "Season": 2025,
+        "Week": 18,
+        "HomeTeam": "TM14",
+        "AwayTeam": "TM19",
+        "Status": "Selected",
+        "HomeScore": null,
+        "AwayScore": null,
+        "GameKey": "288"
+    }
+]

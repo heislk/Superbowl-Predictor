@@ -1,0 +1,226 @@
+[
+    {
+        "Key": "TM0",
+        "FullName": "Team AFC-North-0",
+        "Conference": "AFC",
+        "Division": "North",
+        "Active": true
+    },
+    {
+        "Key": "TM1",
+        "FullName": "Team AFC-North-1",
+        "Conference": "AFC",
+        "Division": "North",
+        "Active": true
+    },
+    {
+        "Key": "TM2",
+        "FullName": "Team AFC-North-2",
+        "Conference": "AFC",
+        "Division": "North",
+        "Active": true
+    },
+    {
+        "Key": "TM3",
+        "FullName": "Team AFC-North-3",
+        "Conference": "AFC",
+        "Division": "North",
+        "Active": true
+    },
+    {
+        "Key": "TM4",
+        "FullName": "Team AFC-South-0",
+        "Conference": "AFC",
+        "Division": "South",
+        "Active": true
+    },
+    {
+        "Key": "TM5",
+        "FullName": "Team AFC-South-1",
+        "Conference": "AFC",
+        "Division": "South",
+        "Active": true
+    },
+    {
+        "Key": "TM6",
+        "FullName": "Team AFC-South-2",
+        "Conference": "AFC",
+        "Division": "South",
+        "Active": true
+    },
+    {
+        "Key": "TM7",
+        "FullName": "Team AFC-South-3",
+        "Conference": "AFC",
+        "Division": "South",
+        "Active": true
+    },
+    {
+        "Key": "TM8",
+        "FullName": "Team AFC-East-0",
+        "Conference": "AFC",
+        "Division": "East",
+        "Active": true
+    },
+    {
+        "Key": "TM9",
+        "FullName": "Team AFC-East-1",
+        "Conference": "AFC",
+        "Division": "East",
+        "Active": true
+    },
+    {
+        "Key": "TM10",
+        "FullName": "Team AFC-East-2",
+        "Conference": "AFC",
+        "Division": "East",
+        "Active": true
+    },
+    {
+        "Key": "TM11",
+        "FullName": "Team AFC-East-3",
+        "Conference": "AFC",
+        "Division": "East",
+        "Active": true
+    },
+    {
+        "Key": "TM12",
+        "FullName": "Team AFC-West-0",
+        "Conference": "AFC",
+        "Division": "West",
+        "Active": true
+    },
+    {
+        "Key": "TM13",
+        "FullName": "Team AFC-West-1",
+        "Conference": "AFC",
+        "Division": "West",
+        "Active": true
+    },
+    {
+        "Key": "TM14",
+        "FullName": "Team AFC-West-2",
+        "Conference": "AFC",
+        "Division": "West",
+        "Active": true
+    },
+    {
+        "Key": "TM15",
+        "FullName": "Team AFC-West-3",
+        "Conference": "AFC",
+        "Division": "West",
+        "Active": true
+    },
+    {
+        "Key": "TM16",
+        "FullName": "Team NFC-North-0",
+        "Conference": "NFC",
+        "Division": "North",
+        "Active": true
+    },
+    {
+        "Key": "TM17",
+        "FullName": "Team NFC-North-1",
+        "Conference": "NFC",
+        "Division": "North",
+        "Active": true
+    },
+    {
+        "Key": "TM18",
+        "FullName": "Team NFC-North-2",
+        "Conference": "NFC",
+        "Division": "North",
+        "Active": true
+    },
+    {
+        "Key": "TM19",
+        "FullName": "Team NFC-North-3",
+        "Conference": "NFC",
+        "Division": "North",
+        "Active": true
+    },
+    {
+        "Key": "TM20",
+        "FullName": "Team NFC-South-0",
+        "Conference": "NFC",
+        "Division": "South",
+        "Active": true
+    },
+    {
+        "Key": "TM21",
+        "FullName": "Team NFC-South-1",
+        "Conference": "NFC",
+        "Division": "South",
+        "Active": true
+    },
+    {
+        "Key": "TM22",
+        "FullName": "Team NFC-South-2",
+        "Conference": "NFC",
+        "Division": "South",
+        "Active": true
+    },
+    {
+        "Key": "TM23",
+        "FullName": "Team NFC-South-3",
+        "Conference": "NFC",
+        "Division": "South",
+        "Active": true
+    },
+    {
+        "Key": "TM24",
+        "FullName": "Team NFC-East-0",
+        "Conference": "NFC",
+        "Division": "East",
+        "Active": true
+    },
+    {
+        "Key": "TM25",
+        "FullName": "Team NFC-East-1",
+        "Conference": "NFC",
+        "Division": "East",
+        "Active": true
+    },
+    {
+        "Key": "TM26",
+        "FullName": "Team NFC-East-2",
+        "Conference": "NFC",
+        "Division": "East",
+        "Active": true
+    },
+    {
+        "Key": "TM27",
+        "FullName": "Team NFC-East-3",
+        "Conference": "NFC",
+        "Division": "East",
+        "Active": true
+    },
+    {
+        "Key": "TM28",
+        "FullName": "Team NFC-West-0",
+        "Conference": "NFC",
+        "Division": "West",
+        "Active": true
+    },
+    {
+        "Key": "TM29",
+        "FullName": "Team NFC-West-1",
+        "Conference": "NFC",
+        "Division": "West",
+        "Active": true
+    },
+    {
+        "Key": "TM30",
+        "FullName": "Team NFC-West-2",
+        "Conference": "NFC",
+        "Division": "West",
+        "Active": true
+    },
+    {
+        "Key": "TM31",
+        "FullName": "Team NFC-West-3",
+        "Conference": "NFC",
+        "Division": "West",
+        "Active": true
+    }
+]

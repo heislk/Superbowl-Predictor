@@ -1,0 +1,5 @@
+requests
+pandas
+numpy
+scipy
+nfl_data_py
